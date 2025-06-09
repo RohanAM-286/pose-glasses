@@ -5,17 +5,20 @@ A fun real-time computer vision project that overlays spectacles on your eyes us
 ---
 
 ## 🎯 Features
-
-- Detects facial keypoints using PoseNet
-- Overlays spectacles between `leftEye` and `rightEye`
-- Real-time video feed using webcam
-- Built using **p5.js** and **ml5.js**
+ <br>
+- Detects facial keypoints using PoseNet <br>
+- Overlays spectacles between `leftEye` and `rightEye` <br>
+- Real-time video feed using webcam <br>
+- Built using <b>p5.js</b> and  <b>ml5.js</b> <br>
 
 ---
 
 ## 🌐 Live Demo
+ <br>
+  <br>
 
 👉 [View it on GitHub Pages] https://justcool0208.github.io/pose-glasses/
+ <br>
 ⚠️ Allow webcam access when prompted.
 
 ---
@@ -29,6 +32,8 @@ A fun real-time computer vision project that overlays spectacles on your eyes us
 ---
 
 ## 🗂️ Project Structure
+ <br>
+ 
 pose-glasses/<br>
 ├── index.html # Main HTML file<br>
 ├── sketch.js # JavaScript (p5 + ml5 logic)<br>
@@ -42,19 +47,23 @@ pose-glasses/<br>
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/pose-glasses.git
+git clone https://github.com/JustCool0208/pose-glasses.git
 cd pose-glasses
 ```
 
-2. Run Locally
-Just open index.html in a browser (Chrome recommended).
-Make sure your camera is connected and accessible.
+2. Run Locally <br>
+Just open index.html in a browser (Chrome recommended). <br>
+Make sure your camera is connected and accessible. <br>
 
 
 
 ✍️ Author
-Made by Rohith A M (https://github.com/JustCool0208/)
+<br>
+Made by Rohith A M 
+ <br>
+ (https://github.com/JustCool0208/)
 
 📄 License
+ <br>
 Licensed under the MIT License.
 
