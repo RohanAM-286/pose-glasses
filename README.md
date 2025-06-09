@@ -15,7 +15,7 @@ A fun real-time computer vision project that overlays spectacles on your eyes us
 
 ## 🌐 Live Demo
 
-👉 [View it on GitHub Pages]
+👉 [View it on GitHub Pages] https://justcool0208.github.io/pose-glasses/
 ⚠️ Allow webcam access when prompted.
 
 ---
@@ -50,15 +50,10 @@ cd pose-glasses
 Just open index.html in a browser (Chrome recommended).
 Make sure your camera is connected and accessible.
 
-📸 Preview
-You can include a screenshot or GIF here:
 
-arduino
-Copy
-Edit
-[optional: drag screenshot.gif or image here]
+
 ✍️ Author
-Made by YOUR NAME
+Made by Rohith A M (https://github.com/JustCool0208/)
 
 📄 License
 Licensed under the MIT License.
