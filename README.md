@@ -17,7 +17,7 @@ A fun real-time computer vision project that overlays spectacles on your eyes us
  <br>
   <br>
 
-👉 [View it on GitHub Pages] https://justcool0208.github.io/pose-glasses/
+👉 [View it on GitHub Pages] https://github.com/RohanAM-286/pose-glasses
  <br>
 ⚠️ Allow webcam access when prompted.
 
