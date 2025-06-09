@@ -59,7 +59,7 @@ Make sure your camera is connected and accessible. <br>
 
 ✍️ Author
 <br>
-Made by Rohith A M 
+Made by Rohan A M 
  <br>
  (https://github.com/JustCool0208/)
 
